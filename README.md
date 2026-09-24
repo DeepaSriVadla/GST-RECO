@@ -51,8 +51,7 @@ GST-RECO/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
-
-
+```
 ⚙️ Installation & Setup
 1. Clone the repository
 git clone https://github.com/DeepaSriVadla/GST-RECO.git
